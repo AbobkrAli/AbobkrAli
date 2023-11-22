@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abobkr ali
-#### I am a web dev (MERN - Laravel - React - Angular)
+#### I am a web dev (MERN )
 ![I am a web dev (MERN ,Laravel)](https://media.licdn.com/dms/image/D4D16AQE13CKXqWVluw/profile-displaybackgroundimage-shrink_350_1400/0/1674326152825?e=1706140800&v=beta&t=dcihZyoTSx1O6-yTbamQCVGuLI7PqBzJm4l8duSGc54)
 
 am an ambitious undergraduate studentpursuing a degree in Computer Science with astrong focus on programming. My specializationlies in web development, and I have acquired aversatile skill set that includes programminglanguages such as Python, C++ and a deepunderstanding of web technologies like HTML,CSS, Bootstrap, JS, SASS, Tailwind, React, Next.js,Firebase, TypeScript, Redux, Framer Motion,
