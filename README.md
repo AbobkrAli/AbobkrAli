@@ -1,47 +1,37 @@
-# Hi, I'm Abobkr Ali
+# 👋 Hi there, I'm Abobkr Ali
 
-Ambitious computer science student and full-stack developer. I focus on modern JavaScript ecosystems, scalable backend architectures, and building clean, maintainable systems.
+## 📊 GitHub Stats
 
-## About Me
-
-- Currently building full-stack projects with **Next.js** and **React Native**  
-- Deepening my backend knowledge with **NestJS**  
-- Interested in cloud infrastructure, automation, and DevOps  
-- Undergraduate computer science student with a focus on software engineering  
+![Profile Views](https://komarev.com/ghpvc/?username=AbobkrAli&color=blue)
+![Followers](https://img.shields.io/github/followers/AbobkrAli?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/AbobkrAli?label=Stars&style=flat)
 
 ---
 
-## Development Stats
+##  Contribution Streak
 
-### Languages I Use Most
-- JavaScript  
-- TypeScript  
-- HTML / CSS  
-- Python  
-- C++  
-
-### My Learning Streaks
-- JavaScript: 300+ days  
-- TypeScript: 250+ days  
-- Backend (Node.js / NestJS): 150+ days  
-- Mobile development: 90+ days  
-- Cloud and DevOps fundamentals: 60+ days  
-
-### Current Focus Areas
-- Building production-grade backend systems  
-- Improving full-stack architectural thinking  
-- Practicing clean code, testing, and scalable folder structures  
-- Mastering advanced TypeScript patterns  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbobkrAli&theme=default)](https://git.io/streak-stats)
 
 ---
 
-## Tech Experience Overview
+##  GitHub Activity Stats
 
-**Frontend:** React, Next.js, Vue, React Native  
-**Backend:** Node.js, Express, NestJS, PHP  
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
-**Other Skills:** GraphQL, REST, TypeScript, C++, Python  
+![Abobkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbobkrAli&show_icons=false&include_all_commits=true&count_private=true)
 
 ---
 
-If you want, I can format this into a more stylish GitHub profile, add auto-generated stats, or restructure it into sections like “Experience”, “Projects”, or “Currently Building”.
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbobkrAli&layout=compact&langs_count=8)
+
+---
+
+##  GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbobkrAli&no-bg=true&no-frame=true&margin-w=10)
+
+---
+
+##  Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbobkrAli&theme=github-light)
