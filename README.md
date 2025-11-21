@@ -8,7 +8,7 @@ I hold a Computer Science degree from **Zagazig University** and have been worki
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 **Frontend:** React, Next.js, HTML, CSS, Tailwind, JavaScript, TypeScript
 **Backend:** Node.js, Express, NestJS
@@ -17,7 +17,7 @@ I hold a Computer Science degree from **Zagazig University** and have been worki
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Phone:** 01014848671
 **Email:** [abobkracc@gmail.com](mailto:abobkracc@gmail.com)
